@@ -5,7 +5,7 @@ Saving or updating Employee information in a database
 ## Description
 In this project, Simple Employee Navigation Form, using Frontend as HTML, CSS and JavaScript  and using Backend as JsonPowerDB is created.
 
-###Features
+### Features
 Validation of data is done. If data not entered then alert is generated.
 If previously stored id is entered then form will show that record
 
